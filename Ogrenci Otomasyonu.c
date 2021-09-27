@@ -151,7 +151,7 @@ void gecme_notu_hesaplama()
         for(int j=0;j<(ogrenci+i)->ders_sayisi;j++)
         {
             (((ogrenci+i)->p_dersler)+j)->gecme_Notu=(((ogrenci+i)->p_dersler)+j)->vize*0.4+(((ogrenci+i)->p_dersler)+j)->finall*0.6;
-            //ogrenciye ait bilgilerin oldugu struct'a giderek orada ogrencinin vize ve final notunu alýr.
+            //ogrenciye ait bilgilerin oldugu struct'a giderek orada ogrencinin vize ve final notunu alÄ±r.
            //Vizenin %40'i finalin %60'ini alarak gecme kalma notunu hesaplar.
         }
     }
