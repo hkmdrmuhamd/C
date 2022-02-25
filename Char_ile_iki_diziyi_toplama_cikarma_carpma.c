@@ -1,4 +1,4 @@
-                                                 //Muhammed Hukumdar No:02210201501
+                                                 //Muhammed Hukumdar
 #include <stdio.h>
 #include <stdlib.h>
 
